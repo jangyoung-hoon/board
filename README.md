@@ -60,10 +60,10 @@
               답변 등록 / 수정 / 삭제 / 추천기능
               게시판 페이징처리 / 검색
 
-              ![image](https://github.com/jangyoung-hoon/board/assets/165972571/0706cec2-b9de-48a1-9a40-908e3c65d5b6)
-              ![image](https://github.com/jangyoung-hoon/board/assets/165972571/307df181-c145-41a2-b47e-93e0275cb4cc)
-              ![image](https://github.com/jangyoung-hoon/board/assets/165972571/3036becc-3c07-4d85-b19b-342f5fc8bdb8)
-              ![image](https://github.com/jangyoung-hoon/board/assets/165972571/f02b4894-44d2-4beb-b232-9a80981f009f)
+![image](https://github.com/jangyoung-hoon/board/assets/165972571/0706cec2-b9de-48a1-9a40-908e3c65d5b6)
+![image](https://github.com/jangyoung-hoon/board/assets/165972571/307df181-c145-41a2-b47e-93e0275cb4cc)
+![image](https://github.com/jangyoung-hoon/board/assets/165972571/3036becc-3c07-4d85-b19b-342f5fc8bdb8)
+![image](https://github.com/jangyoung-hoon/board/assets/165972571/f02b4894-44d2-4beb-b232-9a80981f009f)
 
 
 
